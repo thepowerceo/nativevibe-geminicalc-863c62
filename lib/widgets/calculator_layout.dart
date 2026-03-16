@@ -11,14 +11,14 @@ class CalculatorLayout extends StatelessWidget {
     [
       {'label': 'AC', 'type': ButtonType.action},
       {'label': 'C', 'type': ButtonType.action},
-      {'label': '⌫', 'type': ButtonType.action},
-      {'label': '÷', 'type': ButtonType.operator},
+      {'label': 'â«', 'type': ButtonType.action},
+      {'label': 'Ã·', 'type': ButtonType.operator},
     ],
     [
       {'label': 'sin', 'type': ButtonType.function},
       {'label': 'cos', 'type': ButtonType.function},
       {'label': 'tan', 'type': ButtonType.function},
-      {'label': '×', 'type': ButtonType.operator},
+      {'label': 'Ã', 'type': ButtonType.operator},
     ],
     [
       {'label': '7', 'type': ButtonType.number},

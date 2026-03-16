@@ -1,0 +1,20 @@
+{
+  "@@locale": "ko",
+  "dark": "어둡게",
+  "historyentryresult": "= ${historyEntry.result}",
+  "clearHistory": "기록 지우기",
+  "settings": "설정",
+  "resultCopiedToClipboardHistoryentryresul": "클립보드에 결과 복사됨: ${historyEntry.result}",
+  "clearCalculationHistory": "계산 기록 지우기",
+  "dataManagement": "데이터 관리",
+  "appearance": "화면",
+  "removesAllSavedCalculations": "저장된 모든 계산을 지웁니다.",
+  "geminicalc": "GeminiCalc",
+  "historyCleared": "기록이 지워졌습니다.",
+  "system": "시스템",
+  "cancel": "취소",
+  "history": "기록",
+  "light": "밝게",
+  "clear": "지우기",
+  "clearAll": "모두 지우기"
+}

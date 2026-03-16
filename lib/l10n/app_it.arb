@@ -1,0 +1,20 @@
+{
+  "@@locale": "it",
+  "dataManagement": "Gestione dati",
+  "history": "Cronologia",
+  "removesAllSavedCalculations": "Rimuove tutti i calcoli salvati.",
+  "clear": "Cancella",
+  "appearance": "Aspetto",
+  "dark": "Scuro",
+  "geminicalc": "GeminiCalc",
+  "clearAll": "Cancella tutto",
+  "historyCleared": "Cronologia cancellata.",
+  "clearHistory": "Cancellare la cronologia?",
+  "clearCalculationHistory": "Cancella cronologia calcoli",
+  "resultCopiedToClipboardHistoryentryresul": "Risultato copiato negli appunti: ${historyEntry.result}",
+  "cancel": "Annulla",
+  "settings": "Impostazioni",
+  "light": "Chiaro",
+  "system": "Sistema",
+  "historyentryresult": "= ${historyEntry.result}"
+}

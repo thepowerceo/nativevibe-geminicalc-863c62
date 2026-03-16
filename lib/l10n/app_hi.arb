@@ -1,0 +1,20 @@
+{
+  "@@locale": "hi",
+  "history": "इतिहास",
+  "dataManagement": "डेटा प्रबंधन",
+  "appearance": "दिखावट",
+  "clear": "साफ़ करें",
+  "dark": "गहरा",
+  "removesAllSavedCalculations": "सभी सहेजी गई गणनाओं को हटाता है।",
+  "historyCleared": "इतिहास साफ़ कर दिया गया है।",
+  "clearAll": "सभी साफ़ करें",
+  "clearHistory": "इतिहास साफ़ करें?",
+  "clearCalculationHistory": "गणना इतिहास साफ़ करें",
+  "geminicalc": "GeminiCalc",
+  "settings": "सेटिंग्स",
+  "light": "हल्का",
+  "historyentryresult": "= ${historyEntry.result}",
+  "system": "सिस्टम",
+  "resultCopiedToClipboardHistoryentryresul": "परिणाम क्लिपबोर्ड पर कॉपी किया गया: ${historyEntry.result}",
+  "cancel": "रद्द करें"
+}

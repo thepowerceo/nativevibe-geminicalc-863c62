@@ -1,0 +1,20 @@
+{
+  "@@locale": "fr",
+  "system": "Système",
+  "removesAllSavedCalculations": "Supprime tous les calculs enregistrés.",
+  "clearAll": "Tout effacer",
+  "clear": "Effacer",
+  "historyentryresult": "= ${historyEntry.result}",
+  "dataManagement": "Gestion des données",
+  "history": "Historique",
+  "cancel": "Annuler",
+  "geminicalc": "GeminiCalc",
+  "light": "Clair",
+  "clearCalculationHistory": "Effacer l'historique des calculs",
+  "appearance": "Apparence",
+  "dark": "Sombre",
+  "resultCopiedToClipboardHistoryentryresul": "Résultat copié dans le presse-papiers : ${historyEntry.result}",
+  "historyCleared": "Historique effacé.",
+  "clearHistory": "Effacer l'historique ?",
+  "settings": "Paramètres"
+}

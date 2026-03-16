@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "geminicalc": "GeminiCalc",
+  "history": "History",
+  "settings": "Settings",
+  "clearHistory": "Clear History?",
+  "cancel": "Cancel",
+  "historyCleared": "History cleared.",
+  "clearAll": "Clear All",
+  "clear": "Clear",
+  "clearCalculationHistory": "Clear Calculation History",
+  "removesAllSavedCalculations": "Removes all saved calculations.",
+  "appearance": "Appearance",
+  "dataManagement": "Data Management",
+  "resultCopiedToClipboardHistoryentryresul": "Result copied to clipboard: ${historyEntry.result}",
+  "historyentryresult": "= ${historyEntry.result}",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System"
+}

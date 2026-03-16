@@ -1,0 +1,20 @@
+{
+  "@@locale": "de",
+  "history": "Verlauf",
+  "dataManagement": "Datenverwaltung",
+  "historyentryresult": "= ${historyEntry.result}",
+  "clear": "Löschen",
+  "removesAllSavedCalculations": "Löscht alle gespeicherten Berechnungen.",
+  "system": "System",
+  "clearAll": "Alles löschen",
+  "appearance": "Erscheinungsbild",
+  "light": "Hell",
+  "clearCalculationHistory": "Berechnungsverlauf löschen",
+  "geminicalc": "GeminiCalc",
+  "cancel": "Abbrechen",
+  "dark": "Dunkel",
+  "settings": "Einstellungen",
+  "clearHistory": "Verlauf löschen?",
+  "historyCleared": "Verlauf gelöscht.",
+  "resultCopiedToClipboardHistoryentryresul": "Ergebnis in Zwischenablage kopiert: ${historyEntry.result}"
+}

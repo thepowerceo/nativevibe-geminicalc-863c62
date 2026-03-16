@@ -1,0 +1,20 @@
+{
+  "@@locale": "sv",
+  "removesAllSavedCalculations": "Tar bort alla sparade beräkningar.",
+  "geminicalc": "GeminiCalc",
+  "appearance": "Utseende",
+  "clearHistory": "Rensa historik?",
+  "settings": "Inställningar",
+  "resultCopiedToClipboardHistoryentryresul": "Resultat kopierat till urklipp: ${historyEntry.result}",
+  "dataManagement": "Datahantering",
+  "clearCalculationHistory": "Rensa beräkningshistorik",
+  "historyentryresult": "= ${historyEntry.result}",
+  "dark": "Mörk",
+  "clearAll": "Rensa alla",
+  "clear": "Rensa",
+  "historyCleared": "Historiken rensad.",
+  "system": "System",
+  "history": "Historik",
+  "cancel": "Avbryt",
+  "light": "Ljus"
+}

@@ -1,0 +1,20 @@
+{
+  "@@locale": "nl",
+  "historyentryresult": "= ${historyEntry.result}",
+  "history": "Geschiedenis",
+  "dataManagement": "Gegevensbeheer",
+  "clearAll": "Alles wissen",
+  "removesAllSavedCalculations": "Verwijdert alle opgeslagen berekeningen.",
+  "system": "Systeem",
+  "clear": "Wissen",
+  "clearCalculationHistory": "Berekeningsgeschiedenis wissen",
+  "light": "Licht",
+  "appearance": "Uiterlijk",
+  "geminicalc": "GeminiCalc",
+  "cancel": "Annuleren",
+  "dark": "Donker",
+  "historyCleared": "Geschiedenis gewist.",
+  "settings": "Instellingen",
+  "clearHistory": "Geschiedenis wissen?",
+  "resultCopiedToClipboardHistoryentryresul": "Resultaat gekopieerd naar klembord: ${historyEntry.result}"
+}
