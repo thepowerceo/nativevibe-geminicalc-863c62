@@ -30,7 +30,7 @@ class CalculatorProvider with ChangeNotifier {
       _clearAll();
     } else if (value == 'C') {
       _clear();
-    } else if (value == '⌫') {
+    } else if (value == 'â«') {
       if (_expression.isNotEmpty) {
         _expression = _expression.substring(0, _expression.length - 1);
       }
@@ -53,7 +53,7 @@ class CalculatorProvider with ChangeNotifier {
 
     try {
       // Replace visual operators with evaluatable ones
-      String finalExpression = _expression.replaceAll('×', '*').replaceAll('÷', '/');
+      String finalExpression = _expression.replaceAll('Ã', '*').replaceAll('Ã·', '/');
       
       Parser p = Parser();
       Expression exp = p.parse(finalExpression);

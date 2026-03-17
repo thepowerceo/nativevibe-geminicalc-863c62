@@ -10,11 +10,11 @@
   "dark": "Oscuro",
   "historyentryresult": "= ${historyEntry.result}",
   "resultCopiedToClipboardHistoryentryresul": "Resultado copiado al portapapeles: ${historyEntry.result}",
-  "clearCalculationHistory": "Borrar historial de cálculos",
-  "dataManagement": "Gestión de datos",
-  "clearHistory": "¿Borrar historial?",
+  "clearCalculationHistory": "Borrar historial de cÃ¡lculos",
+  "dataManagement": "GestiÃ³n de datos",
+  "clearHistory": "Â¿Borrar historial?",
   "settings": "Ajustes",
   "appearance": "Apariencia",
   "geminicalc": "GeminiCalc",
-  "removesAllSavedCalculations": "Borra todos los cálculos guardados."
+  "removesAllSavedCalculations": "Borra todos los cÃ¡lculos guardados."
 }
