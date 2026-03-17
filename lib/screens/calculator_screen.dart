@@ -9,7 +9,7 @@ class CalculatorScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Gemini Calc, Baby!', style: Theme.of(context).textTheme.headlineSmall),
+        title: Text('Gemini Calc, Baby', style: Theme.of(context).textTheme.headlineSmall),
         actions: [
           IconButton(
             icon: const Icon(Icons.history),
